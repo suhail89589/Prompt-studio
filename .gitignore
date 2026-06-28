@@ -1,1 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
 .env
+prompt_studio.db
+*.db
