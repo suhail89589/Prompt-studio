@@ -9,4 +9,4 @@ class UserResponse(BaseModel):
     email:EmailStr
 
     class Config:
-        fast_attributes = True
+        from_attributes = True
